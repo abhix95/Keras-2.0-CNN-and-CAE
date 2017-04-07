@@ -4,8 +4,8 @@ Instructions:
 
 On Python terminal do the following
 
->>> from CAE import trainCAE
->>> from CNN import runCNN
+ from CAE import trainCAE
+ from CNN import runCNN
 
 Use funtions: 
 
