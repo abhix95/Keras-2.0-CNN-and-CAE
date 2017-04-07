@@ -8,6 +8,10 @@ On Python terminal do the following
  
  from CNN import runCNN
 
+
+
+
+
 Use funtions: 
 
 1> trainCAE()
