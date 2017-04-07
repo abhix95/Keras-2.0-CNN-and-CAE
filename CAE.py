@@ -1,10 +1,7 @@
 
 # coding: utf-8
 
-# ### Aprroaches explored:
-# #### 1. Simple CNN
-# #### 2. CAE to initialize CNN weights
-# #### 3. Fine-tune a VGG net
+
 
 # In[1]:
 
@@ -31,6 +28,7 @@ import matplotlib.pyplot as plt
 
 
 '''
+Paramters:
 epochs - number of epochs for CAE
 input_dim - number of samples to train CAE
 show_encoded - show encoded representation or not
